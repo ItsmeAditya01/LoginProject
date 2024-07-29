@@ -1,2 +1,2 @@
 # LoginProject
-A basic login form using crud operations
+A basic login form using CRUD operations
